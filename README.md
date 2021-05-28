@@ -1,4 +1,4 @@
-# simple-chrome-desktop-notifications
+# Simple Chrome Desktop Notifications
 Source code for the article "Create Simple Chrome Desktop Notfications with JavaScript in 100 seconds"
 
 ## :newspaper: Article Links
